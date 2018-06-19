@@ -425,7 +425,9 @@
                 </dependencies>
             </plugin>
         </plugins>
+
     </build>
+
     <reporting>
         <plugins>
             <!-- integrate maven-cobertura-plugin to project site -->
@@ -514,4 +516,18 @@
     </repositories>
 
     <url>demopetclinic</url>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </project>
